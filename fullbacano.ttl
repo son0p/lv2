@@ -1,10 +1,10 @@
 @prefix lv2:  <http://lv2plug.in/ns/lv2core#>.
 @prefix doap: <http://usefulinc.com/ns/doap#>.
 
-<http://ll-plugins.nongnu.org/lv2/lv2pftci/stereopanner>
+<http://ll-plugins.nongnu.org/lv2/lv2pftci/fullbacano>
   a lv2:Plugin;
-  lv2:binary <stereopanner.so>;
-  doap:name "Stereo Panner";
+  lv2:binary <fullbacano.so>;
+  doap:name "Full bacano";
   doap:license <http://usefulinc.com/doap/licenses/gpl>;
 
   lv2:port [
